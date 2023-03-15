@@ -1,0 +1,3 @@
+First, run "make" to compile the C++ source into "test.so".
+
+Second, run "python test.py" to run the Python code.

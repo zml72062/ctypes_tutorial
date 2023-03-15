@@ -1,0 +1,3 @@
+First, run "make" to compile the C source into "hello.so".
+
+Second, run "python hello.py" to run the Python code.

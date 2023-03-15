@@ -1,0 +1,3 @@
+First, run "make" to compile the C source into "point.so".
+
+Second, run "python point.py" to run the Python code.

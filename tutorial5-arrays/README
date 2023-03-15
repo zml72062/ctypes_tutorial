@@ -1,0 +1,3 @@
+First, run "make" to compile the C source into "array.so".
+
+Second, run "python array.py" to run the Python code.

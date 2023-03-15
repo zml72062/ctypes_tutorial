@@ -1,0 +1,3 @@
+First, run "make" to compile the C source into "string.so".
+
+Second, run "python string.py" to run the Python code.

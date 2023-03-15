@@ -1,0 +1,3 @@
+First, run "make" to compile the C source into "npyarray.so".
+
+Second, run "python npyarray.py" to run the Python code.

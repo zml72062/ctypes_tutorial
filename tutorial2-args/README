@@ -1,0 +1,3 @@
+First, run "make" to compile the C source into "format.so".
+
+Second, run "python format.py" to run the Python code.

@@ -1,0 +1,3 @@
+First, run "make" to compile the C source into "add.so".
+
+Second, run "python add.py" to run the Python code.

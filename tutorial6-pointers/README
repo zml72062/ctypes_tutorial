@@ -1,0 +1,3 @@
+First, run "make" to compile the C source into "allocate.so".
+
+Second, run "python allocate.py" to run the Python code.
